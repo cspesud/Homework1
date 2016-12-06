@@ -18,7 +18,6 @@ int main()
         
     }
     printf("%s %d","Output result：",s);
-    system("pause");
-    
+       
     return 0;
 }

@@ -13,7 +13,6 @@ int main()
     b=a-b;
     a=a-b;
     printf("%s %d %d ","Output result：",a,b);
-    system("pause");
     return 0;
     
 }

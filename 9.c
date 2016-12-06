@@ -18,6 +18,5 @@ int main()
         count=0;
     }
     printf("\n");
-    system("pause");
     return 0;
 }

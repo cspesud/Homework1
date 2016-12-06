@@ -44,6 +44,5 @@ int main()
     }
     
     printf("The number of zero elements is %d\n", number);
-    system("pause");
     return 0;
 }

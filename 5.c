@@ -18,7 +18,6 @@ int main()
         printf("%d ",X[i]);
     }
     printf("\n");
-    system("pause");
     
     return 0;
 }

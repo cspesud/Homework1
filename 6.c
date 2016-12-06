@@ -53,6 +53,5 @@ int main()
     }
     printf("%d",sum);
     printf("\n");
-    system("pause");
     return 0;
 }
