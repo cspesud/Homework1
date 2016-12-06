@@ -18,6 +18,5 @@ int main()
         
     }
     printf("%s %d","Output result：",s);
-       
     return 0;
 }

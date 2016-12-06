@@ -18,6 +18,5 @@ int main()
         printf("%d ",X[i]);
     }
     printf("\n");
-    
     return 0;
 }
